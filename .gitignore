@@ -1,0 +1,6 @@
+*.vs
+*.git
+
+_build_/
+
+bin/
