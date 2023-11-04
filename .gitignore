@@ -1,5 +1,6 @@
 *.vs
 *.git
+*.gitattributes
 
 _build_/
 
